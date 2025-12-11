@@ -8,4 +8,5 @@
 | left baz      | right baz     |
 Nový řádek
 
-Novejsi radek
+Opraveny Novejsi radek
+
